@@ -32,8 +32,11 @@ def translate(eng_sent):
   return translated
 ```
 [use this script for more info][link1]
+or
+[open this colab notebook][link2]
 
 
 
 
 [link1]: <https://github.com/ravis2114/Neural-Machine-Translation/blob/main/encoder_decoder.py>
+[link2]: <https://colab.research.google.com/github/ravis2114/Neural-Machine-Translation/blob/main/neural_machine_translation.ipynb>
