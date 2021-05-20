@@ -32,7 +32,7 @@ def translate(eng_sent):
   return translated
 ```
 [use this script for more info][link1]
-or
+### or
 [open this colab notebook][link2]
 
 
