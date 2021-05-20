@@ -40,3 +40,7 @@ def translate(eng_sent):
 
 [link1]: <https://github.com/ravis2114/Neural-Machine-Translation/blob/main/encoder_decoder.py>
 [link2]: <https://colab.research.google.com/github/ravis2114/Neural-Machine-Translation/blob/main/neural_machine_translation.ipynb>
+
+License
+----
+MIT
