@@ -3,15 +3,15 @@ Project translates english language to hindi language in devanagari script. same
 
 ### Main model architecture to be trained
 ----
-![Main Model to be trained](https://github.com/ravis2114/Neural-Machine-Translation/blob/main/model.png)
+![Main Model to be trained](https://github.com/ravis2114/Neural-Machine-Translation/blob/main/model_images/model.png)
 
 ### Encoder Model generated from saved Model
 ----
-![Encoder Model generated from saved Model](https://github.com/ravis2114/Neural-Machine-Translation/blob/main/encoder_model.png)
+![Encoder Model generated from saved Model](https://github.com/ravis2114/Neural-Machine-Translation/blob/main/model_images/encoder_model.png)
 
 ### Decoder Model generated from saved Model
 ----
-![Decoder Model generated from saved Model](https://github.com/ravis2114/Neural-Machine-Translation/blob/main/decoder_model.png)
+![Decoder Model generated from saved Model](https://github.com/ravis2114/Neural-Machine-Translation/blob/main/model_images/decoder_model.png)
 
 
 To translate using encoder-decoder model :
