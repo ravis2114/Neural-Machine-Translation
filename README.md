@@ -30,8 +30,9 @@ def translate(eng_sent):
     if dec_inp_seq[0][0] == 1 or len(translated)>16:
       stop = True
   return translated
-[use this script for more info][link1]
 ```
+[use this script for more info][link1]
+
 
 
 
