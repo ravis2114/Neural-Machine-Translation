@@ -1,6 +1,15 @@
 # Neural-Machine-Translation
 Project translates english language to hindi language in devanagari script. same script can be used for translating any one language to subsequent another language.
 
+### english to hindi example
+----
+```
+actual eng text :  ['the holy dip is on november']
+actual hindi text :  ['मुख्य स्नान नवंबर को है']
+translated hindi text :  ['नवंबर को अंतिम रूप से ये संशोधित श्रृंखला शुरू होती है।']
+```
+well it's not perfect since it is trained on just 69201 pairs of english-hindi parallel dataset. To train good encoder-decoder translation model it requires millions of parallel corpus of dataset and good amout of training time.
+
 ### Main model architecture to be trained
 ----
 ![Main Model to be trained](https://github.com/ravis2114/Neural-Machine-Translation/blob/main/model_images/model.png)
